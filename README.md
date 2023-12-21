@@ -148,5 +148,3 @@ As I said earlier, this model can be used to support trading by using this predi
 
 Feel free to fork this and submit PRs. I am open and grateful for any suggestions or bug fixes. Hope you enjoy this project!
 
----
-For more content like this, check out my academic blog at [https://medium.com/engineer-quant](https://medium.com/engineer-quant)
